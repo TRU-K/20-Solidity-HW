@@ -5,7 +5,7 @@ This repo contains homework for unit 20 of my fintech course.
 A fintech startup company has recently hired you. This company is disrupting the finance industry with its own cross-border, Ethereum-compatible blockchain that connects financial institutions. Currently, the team is building smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts.
 
 ## Description
-
+[To be completed]
 
 ## Code Output
 ##### This image shows the setAccounts function working.
@@ -19,7 +19,7 @@ A fintech startup company has recently hired you. This company is disrupting the
 
 ##### The next two images show two withdrawals to sepearate accounts. It can be seen that with each withdrawal the values of, contractBalance, lastToWithdraw, lastWithdrawAmount, all change indicating a succesful transaction.
 ![](https://raw.githubusercontent.com/TRU-K/20-Solidity-HW/main/Images/first_withdrawal.png)
-Transfer one
+*Transfer one*
 
 ![](https://raw.githubusercontent.com/TRU-K/20-Solidity-HW/main/Images/second_withdrawal.png)
-Transfer two
+*Transfer two*
