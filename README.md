@@ -5,7 +5,7 @@ This repo contains homework for unit 20 of my fintech course.
 A fintech startup company has recently hired you. This company is disrupting the finance industry with its own cross-border, Ethereum-compatible blockchain that connects financial institutions. Currently, the team is building smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts.
 
 ## Description
-[To be completed]
+This project required me to put my skills learnt using solidity to use. I created a solidity smart contract that allows for a joint savings account to be created and transacted with. 
 
 ## Code Output
 ##### This image shows the setAccounts function working.
